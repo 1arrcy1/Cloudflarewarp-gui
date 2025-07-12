@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=WARP Control
+Comment=A simple GUI to control Cloudflare WARP
+Exec=/home/pieter/software/warp/warp.py
+Icon=/home/pieter/software/warp/warp.svg
+Terminal=false
+Type=Application
+Categories=Utility;Network;
